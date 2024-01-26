@@ -7,4 +7,4 @@ function saudacao(nome: string): string {
 }
 
 console.log(multiplicacao(1, 3));
-console.log(saudacao("Onishi"))
+console.log(saudacao("Onishi"));
